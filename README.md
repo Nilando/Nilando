@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nilando
+- 👀 I’m interested in compilers, distributed systems, reinforcement learning, and video games.
+- 🌱 I’m currently learning about virtual machines.
+- 💞️ I’m looking to collaborate on anything Rust related and open source.
+- 📫 How to reach me: my discord username is nilandude
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I went to college at University of California, Santa Cruz. Go slugs!
